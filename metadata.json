@@ -1,0 +1,6 @@
+{
+  "name": "ERP Cuba",
+  "description": "Sistema de gestión de negocios, inventario, caja, inversión y balance general.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
